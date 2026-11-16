@@ -1,0 +1,10 @@
+{
+  "name": "Alice",
+  "scores": [
+    85,
+    90,
+    92
+  ],
+  "active": true,
+  "nickname": null
+}
